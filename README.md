@@ -1,4 +1,7 @@
-# Botlyx Demo Bot
-Demo bot for @Botlyx auction (1500 TON)
+# @Botlyx Demo Bot
 
-[Bid Now](https://fragment.com/username/Botlyx)
+Live demo for @Botlyx auction on Fragment  
+Current price: **1500 TON**
+
+[Bid Now](https://fragment.com/username/Botlyx)  
+[Try Bot](https://t.me/BotlyxDemoBot)
